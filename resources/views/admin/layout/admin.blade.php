@@ -104,7 +104,7 @@
                         <li class="nav-item dropdown">
 
                             <li><a class="dropdown-item" href="{{ route('surat.index') }}">Data Klasifikasi Surat</a></li>
-                            <li><a class="dropdown-item" href="{{ route('letter.index') }}">Data Surat</a></li>
+                            <li><a class="dropdown-item" href="#">Data Surat</a></li>
                         </li>
                     </ul>
                 </aside>

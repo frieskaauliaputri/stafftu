@@ -1,7 +1,8 @@
 @extends('admin.layout.admin')
 
 @section('content')
-        <div class="container"> 
+        <div class="container">
+            <br> 
             <h1 class="display-4">Selamat Datang</h1>
             <p class="lead">Jangan lupa untuk mengecek informasi secara berkala ya!</p>
         </div>
